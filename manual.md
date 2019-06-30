@@ -252,14 +252,14 @@ $ vagrant halt
 
 
 ‫هرگونه مشکلی را که در حین کار کردن با CARBON به آن برخوردید، می‌توانید از طریق [github](https://github.com/) با ما در میان بگذراید.‬   
-‫برای این‌کار باید در ریپازیتوریِ [carbon-linux](https://github.com/NRTC/carbon-linux) موجود در [اکانت گیت‌هابِ NRTC](https://github.com/NRTC) ، یک [issues](https://github.com/NRTC/carbon-linux/issues/new) ارسال کنید.‬
+‫برای این‌کار باید در ریپازیتوریِ [carbon-linux](https://github.com/NRTC/carbon-linux) موجود در [اکانت گیت‌هابِ NRTC](https://github.com/NRTC) ، یک [issue](https://github.com/NRTC/carbon-linux/issues/new) ارسال کنید.‬
 
 ‫مراحل انجام این‌کار را با هم دنبال می کنیم:‬
 
 ‫برای این کار وارد اکانت github خود شده و به صفحه اصلی NRTC به آدرس زیر  بروید:‬
 https://github.com/NRTC
 
-![issue1.github](./issue1.github.png)
+![issue1.github](./images/issue1.github.png)
 
 ![issue2.login](./images/issue2.login.png)
 
